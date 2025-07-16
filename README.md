@@ -2,9 +2,9 @@
 
 ## Screenrecordings
 
-https://github.com/user-attachments/assets/dd83704a-b047-4e60-9a15-89b4543c7c02
+https://github.com/user-attachments/assets/d279cbc5-1db8-437d-be25-03ce8b0374eb
 
-https://github.com/user-attachments/assets/6f4df808-2417-42ca-8b2c-8e1299624901
+https://github.com/user-attachments/assets/b6300095-14d2-4345-93a0-09018da834a1
 
 ## Features
 
